@@ -26,7 +26,7 @@ This package requires **Python >= 3.9** and the following dependencies:
 - astroquery
 
 
-See `requirements.txt <../../../requirements.txt>`__ file for more details.
+See `requirements.txt <../requirements.txt>`__ file for more details.
 
 1. From source::
 

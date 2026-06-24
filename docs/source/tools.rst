@@ -17,10 +17,10 @@
 Tools
 =====
 
-Notebooks to show how to use `gaiasupdate` can be found at https://github.com/esa/gaia-jupyter-notebooks
+Notebooks to show how to use `gaiasupdate` can be found at `https://github.com/esa/gaia-jupyter-notebooks <https://github.com/esa/gaia-jupyter-notebooks>`__ .
 
 There are also tests in this package to show:
 
-* Computation of astrometric parameters of a source using epoch data: `Test source update <../../../gaiasupdate/tests/test_constrained_colour_update.py>`__
+* Computation of astrometric parameters of a source using epoch data: `Test source update <../gaiasupdate/tests/test_constrained_colour_update.py>`__
 
 

@@ -28,7 +28,7 @@ More information on how to acknowledge Gaia resources is available at `Gaia cred
 License
 -------
 
-The details of the license of this package can be found in the file `LICENSE.txt <../../../LICENSE.txt>`__ in this package.
+The details of the license of this package can be found in the file `LICENSE.txt <../LICENSE.txt>`__ in this package.
 
 `European Space Agency Public License (ESA-PL) Permissive (Type 3) - v2.4 <https://essr.esa.int/license/european-space-agency-public-license-v2-4-permissive-type-3>`__.
 

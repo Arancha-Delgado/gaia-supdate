@@ -7,7 +7,7 @@
 #  the terms contained in the file "LICENSE.txt".
 -->
 
-[![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/esa/gaia-supdate/blob/main/LICENCE.txt)
+[![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/esa/gaia-supdate/blob/main/LICENSE.txt)
 [![pipeline status](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml/badge.svg?branch=prerelease)](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml)
 [![docs](https://github.com/esa/gaia-supdate/documentation.svg)](https://esa.github.io/gaia-supdate)
 
