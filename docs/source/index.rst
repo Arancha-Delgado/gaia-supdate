@@ -47,10 +47,10 @@
    :alt: Gaia mission logo
 
 
-GaiaSupdate
+gaiasupdate
 ===========
 
-The main objective of the `gaiasupdate` package is the computation of the astrometric source parameters from Gaia epoch astrometry data.
+The main objective of the `gaiasupdate` package is the computation of astrometric source parameters from Gaia epoch astrometry data.
 
 The fourth Gaia data release (Gaia DR4) will make public the astrometric source parameters, e.g. the parallax and proper motions, alongside with timeseries of individual positional measurements, i.e. the "epoch astrometry" which will be available via DataLink or bulk download.
 
@@ -60,13 +60,9 @@ The `gaiasupdate` software package allows users to compute the former on the bas
 Features
 --------
 
-* Reproduce per source the astrometric parameters in the *gaiadr4.all_source_astrometry* Gaia Archive table using epoch astrometry data.
+Compute astrometric source parameters on the basis of epoch astrometry data.
 
-* An interface to the Gaia Archive via Astroquery for epoch astrometry data retrieval.
-
-Note that the epoch data of all sources will not be publicly available until the Gaia DR4 release. 
-
-Epoch astrometry of a small sample sources was released in advance of Gaia DR4, alongside this package.
+Note that the epoch data of all sources will not be publicly available until the Gaia DR4 release. However, epoch astrometry of a small sample of sources was pre-released in advance of Gaia DR4.
 
 
 

@@ -26,11 +26,11 @@ This package requires **Python >= 3.9** and the following dependencies:
 - astroquery
 
 
-See `requirements.txt <../../../requirements.txt>`__ file for more details.
+See `requirements.txt <../requirements.txt>`__ file for more details.
 
 1. From source::
 
-    $ git clone https://github.com/esa/gaia-supdate-dev/gaiasupdate
+    $ git clone https://github.com/esa/gaia-supdate
     $ cd gaiasupdate
     $ pip install -e .
 
@@ -42,6 +42,6 @@ See `requirements.txt <../../../requirements.txt>`__ file for more details.
 
 3. Using conda environment::
 
-    $ conda create --name gaiasupdateEnv --yes python=3.9 -r requirements.txt
+    $ conda create --name gaiasupdateEnv --yes python=3.12 -r requirements.txt
     $ conda activate gaiasupdateEnv
 
