@@ -8,8 +8,8 @@
 -->
 
 [![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/esa/gaia-supdate/blob/main/LICENSE.txt)
-[![pipeline status](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml/badge.svg?branch=prerelease)](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml)
-[![docs](https://github.com/esa/gaia-supdate/documentation.svg)](https://esa.github.io/gaia-supdate)
+[![pipeline status](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml/badge.svg)](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml)
+[![Documentation](https://github.com//esa/gaia-supdate/actions/workflows/ci_build_documentation.yml/badge.svg)](https://esa.github.io/gaia-supdate)
 
 <img src="docs/source/_static/gaia_mission_logo.png" alt="drawing" width="200"/>
 
@@ -60,6 +60,7 @@ pip install gaiasupdate
 ```commandline
 conda create --name gaiasupdate-env --yes python=3.12 -r requirements.txt
 conda activate gaiasupdate-env
+conda install gaiasupdate
 ```
 
 ### Usage examples
@@ -67,7 +68,7 @@ conda activate gaiasupdate-env
 A notebook to show how to use `gaiasupdate` to compute source astrometric parameters from epoch astrometry data can be found at https://github.com/esa/gaia-jupyter-notebooks/tree/main/data-release-4-tutorials
 
 There are also tests included in this package to show:
-- how to produce the astrometric parameters of a source using epoch data: [Test source update](gaiasupdate/tests/test_constrained_colour_update.py)
+- how to produce the astrometric parameters of a source using epoch data: [Test source update](tests/test_constrained_colour_update.py)
 
 ### Documentation
 
@@ -81,13 +82,6 @@ If you make use of `gaiasupdate` in your research or otherwise, we would appreci
 "This work made use of the `gaiasupdate` package that is described at https://www.cosmos.esa.int/web/gaia/gaia-source-update.
 
 More information on how to acknowledge Gaia resources is available at [Gaia credits and acknowledgements](https://www.cosmos.esa.int/web/gaia-users/credits).
-
-
-### Changelog
-
-* `gaiasupdate v0.0.1` - 2026/06/XX
-
-    This pre-release version ahead of Gaia DR4 shows how to use Gaia epoch astrometry data.
 
 
 ### Acknowledgements
