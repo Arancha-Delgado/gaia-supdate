@@ -21,6 +21,6 @@ Notebooks to show how to use `gaiasupdate` can be found at `https://github.com/e
 
 There are also tests in this package to show:
 
-* Computation of astrometric parameters of a source using epoch data: `Test source update <../gaiasupdate/tests/test_constrained_colour_update.py>`__
+* Computation of astrometric parameters of a source using epoch data: `Test source update <https://github.com/esa/gaia-supdate/blob/main/tests/test_constrained_colour_update.py>`__
 
 

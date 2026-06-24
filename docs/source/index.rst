@@ -56,6 +56,8 @@ The fourth Gaia data release (Gaia DR4) will make public the astrometric source 
 
 The `gaiasupdate` software package allows users to compute the former on the basis of the latter, to the extent possible.
 
+The package is hosted at: https://github.com/esa/gaia-supdate
+
 
 Features
 --------
