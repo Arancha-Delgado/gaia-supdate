@@ -11,7 +11,7 @@
 [![pipeline status](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml/badge.svg)](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml)
 [![Documentation](https://github.com//esa/gaia-supdate/actions/workflows/ci_build_documentation.yml/badge.svg)](https://esa.github.io/gaia-supdate)
 
-<img src="https://github.com/esa/gaia-supdate/blob/main/docs/source/_static/gaia_mission_logo.png" alt="drawing" width="200"/>
+<img src="https://esa.github.io/gaia-supdate/_images/gaia_mission_logo.png" alt="drawing" width="200"/>
 
 # gaiasupdate
 
