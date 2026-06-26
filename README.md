@@ -11,7 +11,7 @@
 [![pipeline status](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml/badge.svg)](https://github.com/esa/gaia-supdate/actions/workflows/ci_run_tests.yml)
 [![Documentation](https://github.com//esa/gaia-supdate/actions/workflows/ci_build_documentation.yml/badge.svg)](https://esa.github.io/gaia-supdate)
 
-<img src="docs/source/_static/gaia_mission_logo.png" alt="drawing" width="200"/>
+<img src="https://esa.github.io/gaia-supdate/_images/gaia_mission_logo.png" alt="drawing" width="200"/>
 
 # gaiasupdate
 
@@ -40,7 +40,7 @@ This package requires **Python >= 3.9** and the following dependencies:
 + pyarrow
 + astroquery
 
-See [requirements.txt](requirements.txt) file for more details.
+See [requirements.txt](https://github.com/esa/gaia-supdate/blob/main/requirements.txt) file for more details.
 
 #### From source
 ```commandline
@@ -68,7 +68,7 @@ conda install gaiasupdate
 A notebook to show how to use `gaiasupdate` to compute source astrometric parameters from epoch astrometry data can be found at https://github.com/esa/gaia-jupyter-notebooks/tree/main/data-release-4-tutorials
 
 There are also tests included in this package to show:
-- how to produce the astrometric parameters of a source using epoch data: [Test source update](tests/test_constrained_colour_update.py)
+- how to produce the astrometric parameters of a source using epoch data: [Test source update](https://github.com/esa/gaia-supdate/blob/main/tests/test_constrained_colour_update.py)
 
 ### Documentation
 
@@ -90,7 +90,7 @@ This code was written by A. Delgado and J. Sahlmann with contributions by A. Bom
 
 ### License
 
-The details of the license of this package can be found in the file [LICENSE.txt](LICENSE.txt).
+The details of the license of this package can be found in the file [LICENSE.txt](https://github.com/esa/gaia-supdate/blob/main/LICENSE.txt).
 
 [European Space Agency Public License (ESA-PL) Permissive (Type 3) – v2.4](https://essr.esa.int/license/european-space-agency-public-license-v2-4-permissive-type-3).
 
